@@ -1,6 +1,5 @@
 import { createServer } from 'http';
-var mysql = require('mysql');
-
+import {mysql} from 'mysql';
 
 
 
