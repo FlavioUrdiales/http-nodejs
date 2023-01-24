@@ -6,5 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.mjs"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
   }
 }
